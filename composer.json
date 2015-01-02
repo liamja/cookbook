@@ -1,0 +1,16 @@
+{
+  "name": "liamja/thrust",
+  "description": "A collection of algorithms and functions written for PHP",
+  "require": {
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.4"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Liam Anderson",
+      "email": "liam.anderson.91@gmail.com"
+    }
+  ]
+}
